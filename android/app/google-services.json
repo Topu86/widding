@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771205259169",
+    "project_id": "widding-dd7ec",
+    "storage_bucket": "widding-dd7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771205259169:android:960c35ab5e5afbf01975e0",
+        "android_client_info": {
+          "package_name": "com.example.widding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpayJj_TZm63fNPciS0Tvru5mRAjtKBVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
